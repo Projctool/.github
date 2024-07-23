@@ -2,7 +2,7 @@
 
 Welcome to **Projctool**!
 
-Projctool is a comprehensive tool designed to assist in managing software projects efficiently. Whether you're working on a long-term project or a short sprint, Projctool offers features that make task assignment, user story creation, time estimation, and cost management straightforward and accessible. Our focus is on providing easy usability through both a web application and an API service.
+Projctool is a comprehensive AI-powered tool designed to assist in managing software projects efficiently. Whether you're working on a long-term project or a short sprint, Projctool offers features that make task assignment, user story creation, time estimation, and cost management straightforward and accessible. By leveraging artificial intelligence, Projctool provides intelligent recommendations and optimizations to enhance project management workflows. Our focus is on providing easy usability through both a web application and an API service.
 
 ### 🚀 Key Features
 
