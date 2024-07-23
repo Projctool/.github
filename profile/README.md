@@ -13,6 +13,16 @@ Projctool is a comprehensive tool designed to assist in managing software projec
 - **Project Management**: Suitable for both long-term and short-term projects.
 - **Usability**: User-friendly interface designed for efficiency.
 - **API Service**: Integrate with other tools and services seamlessly.
+- **AI Capabilities**: Utilize AI for intelligent task recommendations, project forecasting, and more.
+- **Custom AI API Key**: Customize your AI interactions with a personal API key tailored to your preferences.
+
+### 🤖 AI Potential
+
+Projctool leverages AI to enhance your project management experience:
+
+- **Intelligent Task Recommendations**: Get suggestions on task prioritization and assignment based on historical data and project goals.
+- **Project Forecasting**: Use AI to predict project timelines, potential delays, and resource allocation.
+- **Personalized Insights**: Customize AI interactions with your own API key for tailored insights and recommendations.
 
 ### 🤝 Contribution Guidelines
 
